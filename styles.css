@@ -1,0 +1,22 @@
+.forecastHours{
+    width:100%;
+    border-top: 2px solid black;
+    padding-left: 20px;
+}
+#weatherResults{
+    margin-top: 10px;
+    border-top: 2px solid black;
+    padding-left: 20px;
+}
+body {
+    background-color: #FFFFFF;
+}
+form{
+    padding-left: 20px;
+}
+h1{
+    padding-left: 20px;
+}
+h2{
+    font-size: 24px;
+}
